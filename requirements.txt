@@ -1,0 +1,8 @@
+matplotlib
+scipy
+sympy
+pandas
+numpy
+nibabel
+h5py
+--index-url https://github.com/Washington-University/workbench.git
